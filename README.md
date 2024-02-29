@@ -7,9 +7,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diwashpandey&color=800099&style=for-the-badge" alt="diwashpandey" /> </p>
 
 
-- 🔭 Currently learning **JavaScript and AI**
+- 🔭 Currently growing on **Software Engineering** and **AI Engineering**
 
-- 💬 Ask me about **Python, HTML and CSS**
+- 💬 Ask me about **Python, JavaScript, Django, HTML and CSS**
   
 - 🥐 Ex-**Professional Video Editor, Photographer and a Creative Graphics Designer** for **7 years**
 
