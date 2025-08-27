@@ -2,18 +2,18 @@
 
 <h1 align="center"> Yo bop!👋! I'm Diwash Pandey</h1>
 
-<h3 align="center">I am a Code Digger and I Crave for Knowledge 24\7.</h3>
+<h3 align="center">I Build with Code but I Think in Human Experience.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diwashpandey&color=800099&style=for-the-badge" alt="diwashpandey" /> </p>
 
 
 - 🔭 Currently growing on **Software Engineering** and **AI Engineering**
 
-- 💬 Ask me about **Python, JavaScript, Django, HTML and CSS**
+- 💬 Ask me about **Backend Development, Frontend Development, Business Development, Marketing**
   
 - 🥐 Ex-**Professional Video Editor, Photographer and a Creative Graphics Designer** for **7 years**
 
-- 📫Reach Me with: **diwash.pandey.only@gmail.com**
+- 📫Reach Me with: **diwash.pandey.origin@gmail.com**
 
 - ⚡ Fun fact **My code has more twists than a telenovela plot. Debugging is my daily drama, and syntax errors are my unexpected plot twists.**
 
@@ -37,7 +37,7 @@
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,javascript,tailwindcss,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=django,react,dotnet,python,cs,typescript,javascript,tailwindcss,html,css" /><br>
 </p>
 
 <h3 align="center">Designs Softwares:</h3>
