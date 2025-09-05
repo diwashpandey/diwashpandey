@@ -37,7 +37,7 @@
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,dotnet,python,cs,typescript,javascript,tailwindcss,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=django,react,dotnet,go,python,cs,typescript,javascript,tailwindcss,html,css" /><br>
 </p>
 
 <h3 align="center">Designs Softwares:</h3>
